@@ -38,11 +38,6 @@ test.
 
 #### Installation
 
-1- Clone the project
-
-```
-git clone **https://github.com/duwscan/quiz-system.git**
-```
 
 2- Install the dependencies
 
@@ -50,11 +45,6 @@ git clone **https://github.com/duwscan/quiz-system.git**
 composer install
 ```
 
-3- Configure the environment: (Copy file .env.example rồi đổt thành env)
-
-```
-cp .env.example .env
-```
 
 4- Generate the application key:
 
