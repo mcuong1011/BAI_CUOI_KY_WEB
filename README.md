@@ -38,6 +38,8 @@ test.
 
 #### Installation
 
+1- Create a database in MYSQL Workbench named quizz_system with user: root and password: 1234
+
 
 2- Install the dependencies
 
